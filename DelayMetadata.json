@@ -1,0 +1,16 @@
+{
+    "labels": {
+        "0": "On Time",
+        "1": "Delayed"
+    },
+    "features": [
+        "attendance",
+        "progress",
+        "published",
+        "extensions",
+        "delay",
+        "score",
+        "delayed"
+    ],
+    "model": "Random Forest Classifier"
+}
