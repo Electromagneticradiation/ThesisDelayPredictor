@@ -9,8 +9,7 @@
         "published",
         "extensions",
         "delay",
-        "score",
-        "delayed"
+        "score"
     ],
     "model": "Random Forest Classifier"
 }
